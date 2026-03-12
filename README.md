@@ -1,5 +1,5 @@
-# Hi, I'm [Your Name] 
-### CS graduate | Java & C++ Developer | Problem Solver
+# Hi, I'm [Joshua O'Neill] 
+### CS graduate | Java & C++ Developer 
 
 Welcome to my portfolio! I'm a Computer Science graduate with a passion for building things — from low-level algorithms to interactive applications.
 
