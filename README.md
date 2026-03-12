@@ -10,7 +10,7 @@ Welcome to my portfolio! I'm a Computer Science graduate with a passion for buil
 ---
 
 ## 🎓 Education
-**Computer Science, BS** — Information Technologies *(In progress)*
+**Computer Science, BS** — Information Technologies 
 
 ---
 
@@ -26,9 +26,4 @@ Welcome to my portfolio! I'm a Computer Science graduate with a passion for buil
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jaoneill@gmail.com)
