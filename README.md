@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Your Name] 
 ### CS graduate | Java & C++ Developer | Problem Solver
 
-Welcome to my portfolio! I'm a Computer Science student with a passion for building things — from low-level algorithms to interactive applications.
+Welcome to my portfolio! I'm a Computer Science graduate with a passion for building things — from low-level algorithms to interactive applications.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
