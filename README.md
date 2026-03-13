@@ -17,7 +17,7 @@ Welcome to my portfolio! I'm a Computer Science graduate with a passion for buil
 ## 💻 Projects
 
 - 📡 **[Java Morse Code Decoder](https://github.com/jaoneill03/-Java-Morse-Code-Decoder)** — Encodes and decodes text to/from Morse code using a binary tree structure.
-- 🎲 **[Java Chutes & Ladders](https://github.com/yourusername/repo)** — Console-based board game with full game logic and multi-player support.
+- 🎲 **[Java Chutes & Ladders](https://github.com/jaoneill03/Java-Chutes-Ladders)** — Console-based board game with full game logic and multi-player support.
 - 📊 **[C++ Sorting Programs](https://github.com/yourusername/repo)** — Implementations and benchmarks of merge, quick, and heap sort.
 - 🌀 **[C++ Maze Generator](https://github.com/yourusername/repo)** — Procedurally generates and solves mazes using depth-first search.
 - ⚙️ **[Java NFA Builder & Converter](https://github.com/yourusername/repo)** — Builds NFAs and converts them to DFAs via subset construction.
