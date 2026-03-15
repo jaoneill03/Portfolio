@@ -21,7 +21,7 @@ Welcome to my portfolio! I'm a Computer Science graduate with a passion for buil
 - 📊 **[C++ Heap Sort](https://github.com/jaoneill03/CPP-Heap-Sort)** — Implementation and benchmark of heap sort.
 - 🌀 **[C++ Maze Generator](https://github.com/jaoneill03/CPP-Maze)** — Procedurally generates and solves mazes using depth-first search.
 - ⚙️ **[Java NFA Builder & Converter](https://github.com/yourusername/repo)** — Builds NFAs and converts them to DFAs via subset construction.
-- 🔁 **[Java DFA](https://github.com/yourusername/repo)** — Implements a DFA that accepts/rejects strings based on a defined language.
+- 🔁 **[Java DFA](https://github.com/jaoneill03/Java-DFA)** — Implements a DFA that accepts/rejects strings based on a defined language.
 
 ---
 
