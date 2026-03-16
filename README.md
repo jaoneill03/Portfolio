@@ -6,6 +6,7 @@
 - 💡 Interested in algorithms, automata theory, and systems programming
 - 🔍 Open to entry-level software engineering opportunities
 
+---
   
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -16,7 +17,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
---
+
 
 ## 💻 Projects
 
