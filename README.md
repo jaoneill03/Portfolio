@@ -7,6 +7,15 @@
 - 🔍 Open to entry-level software engineering opportunities
 
 ---
+
+## 🎓 Education
+**Computer Science, BS** — Information Technologies
+Illinois State University — 2026
+
+Relevant coursework: Data Structures, Algorithms, Theory of Computation,
+Database Systems, Operating Systems
+
+---
   
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
