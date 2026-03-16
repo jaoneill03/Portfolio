@@ -17,6 +17,10 @@ Welcome to my portfolio! I'm a Computer Science graduate with a passion for buil
 
 ---
 
+## 📊 GitHub Stats
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaoneill03&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaoneill03&layout=compact)
+
 ## 💻 Projects
 
 - 📡 **[Java Morse Code Decoder](https://github.com/jaoneill03/-Java-Morse-Code-Decoder)** — Decodes text from Morse code using a binary tree structure.
