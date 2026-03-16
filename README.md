@@ -40,4 +40,4 @@ Database Systems, Operating Systems
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jaoneill@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](jaoneill@gmail.com)
