@@ -36,6 +36,8 @@ Database Systems, Operating Systems
 - 🌀 **[C++ Maze Generator](https://github.com/jaoneill03/CPP-Maze)** — Procedurally generates and solves mazes using depth-first search.
 - ⚙️ **[Java NFA Builder & Converter](https://github.com/jaoneill03/Java-NFA)** — Builds NFAs and converts them to DFAs via subset construction.
 - 🔁 **[Java DFA](https://github.com/jaoneill03/Java-DFA)** — Implements a DFA that accepts/rejects strings based on a defined language.
+- 🗄️ **[SQL Employee Database](https://github.com/jaoneill03/SQL-Employee-Database-Schema-and-Queries)** — Relational database schema and queries for a multi-department company system.
+
 
 ---
 
