@@ -2,7 +2,7 @@
 ### CS graduate | Java & C++ Developer 
 
 ## 👋 About Me
-- 🎓 Expected to graduated with a BS in Computer Science on May 5th
+- 🎓 ✅ Expected to graduate with a BS in Computer Science in May 2026
 - 💡 Interested in algorithms, automata theory, and systems programming
 - 🔍 Open to entry-level software engineering opportunities
 
@@ -26,7 +26,7 @@ Database Systems, Operating Systems
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
+---
 
 ## 💻 Projects
 
@@ -34,7 +34,7 @@ Database Systems, Operating Systems
 - 🎲 **[Java Chutes & Ladders](https://github.com/jaoneill03/Java-Chutes-Ladders)** — Console-based board game with full game logic and multi-player support.
 - 📊 **[C++ Heap Sort](https://github.com/jaoneill03/CPP-Heap-Sort)** — Implementation and benchmark of heap sort.
 - 🌀 **[C++ Maze Generator](https://github.com/jaoneill03/CPP-Maze)** — Procedurally generates and solves mazes using depth-first search.
-- ⚙️ **[Java NFA Builder & Converter](https://github.com/jaoneill03/Java-NFA)** — Builds NFAs and converts them to DFAs via subset construction.
+- ⚙️ **[Java NFA Builder & Converter](https://github.com/jaoneill03/Java-NFA)** —  Java NFA Builder & Regex Converter — Builds NFAs from string sets and converts regular expressions to NFAs.
 - 🔁 **[Java DFA](https://github.com/jaoneill03/Java-DFA)** — Implements a DFA that accepts/rejects strings based on a defined language.
 - 🗄️ **[SQL Employee Database](https://github.com/jaoneill03/SQL-Employee-Database-Schema-and-Queries)** — Relational database schema and queries for a multi-department company system.
 
@@ -42,4 +42,4 @@ Database Systems, Operating Systems
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jaoneill@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jaoneill03@gmail.com)
